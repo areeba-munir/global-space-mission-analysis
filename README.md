@@ -1,7 +1,7 @@
 #  Global Space Mission Analysis (1957 - 2020)
 
 ###  Project Overview
-This project provides an end-to-end Exploratory Data Analysis (EDA) of every space mission since the launch of Sputnik. 
+Space exploration is no longer just a government "prestige" project; it has become a multi-billion dollar commercial industry. The goal of this project was to analyze the geopolitical shift in space dominance, the economic evolution of launch costs, and the engineering progress of mission reliability over the last 60+ years.
 
 ###  Technical Implementation
 - **Data Wrangling:** Handled complex string parsing and ISO-3166 country standardization.
