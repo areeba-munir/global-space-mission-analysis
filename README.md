@@ -1,4 +1,4 @@
-# 🚀 Global Space Mission Analysis (1957 - 2020)
+#  Global Space Mission Analysis (1957 - 2020)
 
 ### 📊 Project Overview
 This project provides an end-to-end Exploratory Data Analysis (EDA) of every space mission since the launch of Sputnik. 
